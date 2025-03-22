@@ -1,0 +1,242 @@
+[
+    {
+      "route": "Chalakudy to Angamaly",
+      "stops": [
+        {
+            "name":"Chalakudy private busstand",
+            "latitude":10.3008439,
+            "longitude":76.3366678
+        },
+        {
+            "name":"Chalakudy Muncipal Bus Stand",
+            "latitude":10.3004685,
+            "longitude":76.3370651
+        },
+        {
+            "name":"Chalakkudy Government Hospital",
+            "latitude":10.2976161,
+            "longitude":76.3371356
+        },
+        {
+            "name":"Divine Nagar",
+            "latitude":10.2882943,
+            "longitude":76.33859
+        },
+        {
+            "name":"Muringur",
+            "latitude":10.283951,
+            "longitude":76.343136
+        },
+        {
+            "name":"Kottamuri",
+            "latitude":10.2791091,
+            "longitude":76.3441171
+        },
+        {
+            "name":"Lethin palli",
+            "latitude":10.274094,
+            "longitude":76.346643
+        },
+        {
+            "name":"Koratty",
+            "latitude":10.267998,
+            "longitude":76.349906
+        },
+        {
+            "name":"J.T.S Junction Koratty",
+            "latitude":10.2619512,
+            "longitude":76.3567892
+        },
+        {
+            "name":"Perumby",
+            "latitude":10.2588771,
+            "longitude":76.3638262
+        },
+        {
+            "name":"Chirangara",
+            "latitude":10.2522266,
+            "longitude":76.3678978
+        },
+        {
+            "name":"Pongam Naipunnya",
+            "latitude":10.2452781,
+            "longitude":76.3713064
+        },
+        {
+            "name":"Power House",
+            "latitude":10.2414043,
+            "longitude":76.373365
+        },
+        {
+            "name":"Cable Junction",
+            "latitude":10.2361507,
+            "longitude":76.3735093
+        },
+        {
+            "name":"Karukutty",
+            "latitude":10.2299107,
+            "longitude":76.3743159
+        },
+        {
+            "name":"Areekal Karukutty",
+            "latitude":10.2233483,
+            "longitude":76.3759431
+        },
+        {
+            "name":"Elavoor Kavala",
+            "latitude":10.2168608,
+            "longitude":76.3782322
+        },
+        {
+            "name":"Karayaparambu",
+            "latitude":10.2108056,
+            "longitude":76.3814367  
+        },
+        {
+            "name":"Kothakulangara",
+            "latitude":10.2027964,
+            "longitude":76.3829051  
+        },
+        {
+            "name":"K.G Hospital",
+            "latitude":10.1979753,
+            "longitude":76.3848355  
+        },
+        {
+            "name":"FlixBus Kochi",
+            "latitude":10.1979753,
+            "longitude":76.3848355 
+        },
+        {
+            "name":"Bank Junction",
+            "latitude":10.1965019,
+            "longitude":10.1965019  
+        },
+        {
+            "name":"K.S.R.T.C Bus Stand",
+            "latitude":10.1945546,
+            "longitude":76.3862206  
+        }, 
+        {
+            "name":"Town Little Flower",
+            "latitude":10.1918816,
+            "longitude":76.3868474 
+        },
+        {
+            "name":"Chungam",
+            "latitude":10.1912809,
+            "longitude":76.3869766  
+        },
+        {
+            "name":"Angamaly",
+            "latitude":10.1898144,
+            "longitude":76.3856023  
+        },
+        {
+            "name":"St. Antonys Chapel/School",
+            "latitude":10.186411,
+            "longitude":76.3816337 
+        }, 
+        {
+            "name":"Angamaly Private Bus Stand",
+            "latitude":10.1833798,
+            "longitude":76.3790263  
+        }
+    ]
+    },
+    {
+      "route": "Angamaly to Chalakudy",
+      "stops": [
+            {
+                "name":"Angamaly Private Bus Stand",
+                "latitude":10.1833798,
+                "longitude":76.3790263
+            },
+            {
+                "name":"Angamaly Railway Station",
+                "latitude":10.1841915,
+                "longitude":76.3799086
+            },
+            {
+                "name":"St. Antonys Chapel/School",
+                "latitude":10.1865802,
+                "longitude":76.381311
+            },
+            {
+                "name":"Bank Junction",
+                "latitude":10.1890236,
+                "longitude":76.3844514
+            },
+            {
+                "name":"Chungam",
+                "latitude":10.1911027,
+                "longitude":76.3865492
+            },
+            {
+                "name":"Angamaly Town",
+                "latitude":10.1932286,
+                "longitude":76.3868673
+            },
+            {
+                "name":"K.S.R.T.C Bus Stand",
+                "latitude":10.1957927,
+                "longitude":76.3858381
+            },
+            {
+                "name":"Bank Junction",
+                "latitude":10.1964688,
+                "longitude":76.385668
+            },
+            {
+                "name":"FlixBus Kochi",
+                "latitude":10.1979292,
+                "longitude":76.3850222
+            },
+            {
+                "name":"K.G Hospital",
+                "latitude":10.1979292,
+                "longitude":76.3850222
+            },
+            {
+                "name":"Kothakulangara",
+                "latitude":10.2025779,
+                "longitude":76.3827394
+            },
+            {
+                "name":"Karayaparambu",
+                "latitude":10.2098346,
+                "longitude":76.3815692
+            },
+            {
+                "name":"Elavoor Kavala",
+                "latitude":10.2164483,
+                "longitude":76.3782138
+            },
+            {
+                "name":"Areekal Karukutty",
+                "latitude":10.2233033,
+                "longitude":76.3754791
+            },
+            {
+                "name":"Karukutty",
+                "latitude":10.2259256,
+                "longitude":76.3751313
+            },
+            {
+                "name":"Cable Junction",
+                "latitude":10.2361507,
+                "longitude":76.3735093
+            },
+            {
+                "name":"Power House",
+                "latitude":10.2413565,
+                "longitude":76.3732916
+            },
+            {
+                "name":"Pongam Naipunnya",
+                "latitude":10.245066,
+                "longitude":76.371197
+            }
+      ]
+    }
+  ]
